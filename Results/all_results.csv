@@ -1,0 +1,5 @@
+Model,RMSE,MAE,R2,Training_Time
+Linear Regression (Baseline),34.66,23.18,0.983,0.015
+Random Forest (sklearn),34.69,17.71,0.983,0.969
+Gradient Boosting (sklearn),38.46,18.79,0.9791,0.752
+Random Forest (PySpark HPC),35.31830217306405,17.30849305530177,0.9820568740738338,31.705

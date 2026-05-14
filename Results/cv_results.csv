@@ -1,0 +1,4 @@
+Model,Mean_R2,Std_R2,Min_R2,Max_R2
+Linear Regression,0.9276,0.0715,0.8016,0.9852
+Random Forest,0.9484,0.0434,0.8913,0.9848
+Gradient Boosting,0.9455,0.0441,0.889,0.9831
